@@ -1,0 +1,20 @@
+#home {
+    background: #ffc107;
+    color:white;
+}
+
+.caixa {
+    padding: 60px 0px;
+    border-bottom: 1px solid #e5e5e5;
+}
+
+footer nav a {
+    color:#ffc107;
+    margin-left: 25px;
+    font-size: 20px;
+}
+
+footer nav a:hover{
+    text-decoration: none;
+    color:black;
+}
